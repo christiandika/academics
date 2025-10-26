@@ -8,7 +8,6 @@ Binary classification to predict **loan default risk** using tabular credit data
 
 - **Notebook:** `loan_default_prediction_keras_tensorflow.ipynb`
 - **Data:** `loan_data.csv`
-- **Exported analysis (PDF):** `loan_default_prediction_keras_tensorflow.pdf`
 
 ---
 
