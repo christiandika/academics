@@ -60,9 +60,9 @@ epochs and the results depend on the random parameters selected in the
 beginning.
 
 Attenpted different configurations:
-# Scaler: StandardScaler vs MinMaxScaler
-# Optimizer: Adam with different learning rates
-# Epochs: 50, 100, 200, 500, 1000, 2000, 5000
+### Scaler: StandardScaler vs MinMaxScaler
+### Optimizer: Adam with different learning rates
+### Epochs: 50, 100, 200, 500, 1000, 2000, 5000
 
 I calculated the optimal threshold using Youden's J statistic. The default
 threshold of 0.5 was not optimal for this model, as it resulted in a low recall
